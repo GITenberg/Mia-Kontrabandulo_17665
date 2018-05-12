@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/102
     wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17665#Mia-Kontrabandulo
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2006-02-03'
 gutenberg_type: Text
